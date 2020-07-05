@@ -1,2 +1,2 @@
-# CV2
+# CV2-Programs
 Open CV projects
